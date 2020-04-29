@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kakenhi7360.github.io</id>
     <title>Kakenhi&apos;s Blog</title>
-    <updated>2020-04-29T09:07:01.074Z</updated>
+    <updated>2020-04-29T09:10:30.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kakenhi7360.github.io"/>
     <link rel="self" href="https://kakenhi7360.github.io/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="https://kakenhi7360.github.io/post/hello/">
         </link>
         <updated>2020-04-29T08:31:48.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>这里是来自中华人民共和国的一名高中生的日常 。
-情绪会爆炸，会写涉及当下非政治议题的思考，会发一些皮毛层面的所谓“技术性”文章，**可能**会发色色的东西（兔兔捂脸）；
-喜欢n-buna和魂音泉，欢迎在音乐相关文章的评论下交流。
-也欢迎来各位我的 Blog 下面留言交朋友、指正错误呢。
-更详细的内容请见“关于”页内，那谢谢大家照顾啦w</code></pre>
+        <content type="html"><![CDATA[<p>这里是来自中华人民共和国的一名高中生的日常 。</p>
+<p>情绪会爆炸，会写涉及当下非政治议题的思考，会发一些皮毛层面的所谓“技术性”文章，<strong>可能</strong>会发色色的东西（兔兔捂脸）</p>
+<p>喜欢n-buna和魂音泉，欢迎在音乐相关文章的评论下交流。</p>
+<p>也欢迎来各位我的 Blog 下面留言交朋友、指正错误呢。</p>
+<p>更详细的内容请见“关于”页内，那谢谢大家照顾啦w</p>
 ]]></content>
     </entry>
 </feed>
