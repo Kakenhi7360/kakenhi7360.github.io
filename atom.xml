@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://kakenhi7360.github.io</id>
+    <id>https://kakenhi.cf</id>
     <title>Kakenhi&apos;s Blog</title>
-    <updated>2020-04-29T09:22:42.628Z</updated>
+    <updated>2020-04-29T09:24:56.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://kakenhi7360.github.io"/>
-    <link rel="self" href="https://kakenhi7360.github.io/atom.xml"/>
+    <link rel="alternate" href="https://kakenhi.cf"/>
+    <link rel="self" href="https://kakenhi.cf/atom.xml"/>
     <subtitle>鸽子会飞，草木会生长，墨水很干净，阳光很明亮，风在吹来。 花会落下，信纸会用光，歌是透明的，海底没有光，末班车开走不会回来。 </subtitle>
-    <logo>https://kakenhi7360.github.io/images/avatar.png</logo>
-    <icon>https://kakenhi7360.github.io/favicon.ico</icon>
+    <logo>https://kakenhi.cf/images/avatar.png</logo>
+    <icon>https://kakenhi.cf/favicon.ico</icon>
     <rights>All rights reserved 2020, Kakenhi&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello,friend]]></title>
-        <id>https://kakenhi7360.github.io/post/hello/</id>
-        <link href="https://kakenhi7360.github.io/post/hello/">
+        <id>https://kakenhi.cf/post/hello/</id>
+        <link href="https://kakenhi.cf/post/hello/">
         </link>
         <updated>2020-04-29T08:31:48.000Z</updated>
         <content type="html"><![CDATA[<p>这里是来自中华人民共和国的一名高中生的日常 。</p>
